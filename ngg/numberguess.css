@@ -1,0 +1,46 @@
+
+body {
+	margin: 10px;
+	background-color :rgba(31, 226, 226, 0.815);
+	font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.button {
+	margin-top: 10px;
+	border-radius: 10px;
+	border-color: #000000;
+	border-style: solid;
+	border-width: 1px;
+	width: 20%;
+	padding: 5px;
+	text-align: center;
+	font-weight: bold;
+    margin: auto;
+}
+
+#historyArea {
+	margin-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+    text-align: center;
+}
+
+#game {
+	background-color: yellow;
+	border-radius: 10px;
+	border-style: solid;
+	border-width: 3px;
+	border-color:black;
+	padding: 10px;
+    text-align: center;
+    font-family: cursive;
+}
+
+#statusArea {
+	font-size: 120%;
+}
+
+html {
+    text-align: center;
+}
